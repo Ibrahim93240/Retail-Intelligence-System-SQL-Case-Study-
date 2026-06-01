@@ -82,26 +82,6 @@ E-Commerce Analysis
 │   └── findings.md
 └── README.md
 ```
-## Project Screenshots
-
-### Task 7 - Top 10 Customers
-![Top Customers](Results/Screenshots/task_07_top_customers.png)
-
-### Task 9 - Top Products by Revenue
-![Top Products](Results/Screenshots/task_09_top_products_revenue.png)
-
-### Task 10 - Revenue by Category
-![Revenue by Category](Results/Screenshots/task_10_revenue_by_category.png)
-
-### Task 12 - Monthly Sales Trend
-![Monthly Sales Trend](Results/Screenshots/task_12_monthly_sales_trend.png)
-
-### Task 13 - Revenue by City
-![Revenue by City](Results/Screenshots/task_13_revenue_by_city.png)
-
-### Task 17 - Customer Segmentation
-![Customer Segmentation](Results/Screenshots/task_17_customer_segmentation.png)
----
 
 ## Tools Used
 
