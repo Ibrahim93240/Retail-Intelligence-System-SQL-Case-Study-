@@ -5,7 +5,7 @@ It focuses on understanding customer behavior, product performance, sales trends
 
 ## 🧠 Business Problem
 
--E-commerce businesses often struggle with:
+- E-commerce businesses often struggle with:
 
   - Identifying high-value customers
   - Understanding product demand patterns
@@ -115,16 +115,17 @@ It focuses on understanding customer behavior, product performance, sales trends
   - Support data-driven decision making
 
 ## 📁 Project Structure
+
 E-Commerce SQL Analysis
 │
-├── Dataset/
-├── SQL/
+├── Dataset
+├── SQL
 │   ├── customer_analysis.sql
 │   ├── product_analysis.sql
 │   ├── sales_analysis.sql
 │
-├── Results/
-│   ├── Screenshots/
+├── Results
+│   ├── Screenshots
 │   └── findings.md
 │
 └── README.md
